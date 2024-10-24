@@ -22,6 +22,7 @@ This protocol describes the preparation of the two reagents needed for colorimet
 5.	Stir for about 15 mins and transfer into 1L Schott bottle.
 6.	Store solution at room temperature in a dark/brown bottle.
 
+## Methodology
 
 ### Calibration range: 0.05 ppm – 1ppm
 
