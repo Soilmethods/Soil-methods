@@ -1,6 +1,6 @@
 # Olsen P
 
-Soil sampls are extracted using a 0.5 M sodium bicarbonate solution (pH = 8.5) at room tmeperature. After filtration, the sample is acdified before quantification, either via FIA or plate method. The Olsen P method is best suited for calcareous soils, particularly those with > 2% calcium carbonate, but has been shown in some research to be reasonably effective for acidic soils. The method is based on decreasing the solution concentrations of soluble Ca by precipitation as CaCO3 and soluble Al3+ and Fe3+ by formation of Al and Fe oxyhydroxides, thus increasing P solubility.
+Soil sampls are extracted using a 0.5 M sodium bicarbonate solution (pH = 8.5) at room temperature. After filtration, the sample is acdified before quantification, either via FIA or plate method. The Olsen P method is best suited for calcareous soils, particularly those with > 2% calcium carbonate, but has been shown in some research to be reasonably effective for acidic soils. The method is based on decreasing the solution concentrations of soluble Ca by precipitation as CaCO3 and soluble Al3+ and Fe3+ by formation of Al and Fe oxyhydroxides, thus increasing P solubility.
 
 ## Chemicals and reagents
 
