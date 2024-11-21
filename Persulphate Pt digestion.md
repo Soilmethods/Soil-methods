@@ -41,9 +41,9 @@ Makes enough for one complete set of fractionation samples (IE: less than 36 soi
 
 For each of the fraction extracts and fraction standards:
 
-1.	Mix extract thoroughly, then pipette 25 mL into a 50 mL Erlenmeyer flask 
+1.	Mix extract thoroughly, then pipette 25 mL into a 50 mL Erlenmeyer flask. 
 
-2.	Add 2.5 mL potassium persulphate oxidizing solution
+2.	Add 2.5 mL potassium persulphate oxidizing solution.
    
 3.	Cap each flask with a square of aluminum foil (seal should not be air-tight)
    
@@ -57,3 +57,16 @@ For each of the fraction extracts and fraction standards:
 
     b.	A precipitate may form. If this is the case, be sure to shake the digestate thoroughly before taking aliquots or pipetting for colour analysis
 
+## Digestion Procedure (low volume) 
+
+For each of the fraction extracts and fraction standards:
+
+1. Mix extract thoroughly, then pipette 4 mL of sample into a culture tube.
+   
+2.	Add 2.5 mL potassium persulphate oxidizing solution.
+   
+3.	Tightly close the tubes with the caps.
+
+4.	Autoclave for 55 minutes at 120°C. When complete, remove from autoclave and allow to cool.
+
+5.	Measure using colormetric methodology. 
