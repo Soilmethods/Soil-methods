@@ -70,3 +70,18 @@ For each of the fraction extracts and fraction standards:
 4.	Autoclave for 55 minutes at 120°C. When complete, remove from autoclave and allow to cool.
 
 5.	Measure using colormetric methodology. 
+
+## Digestion Procedure (low volume) - Oven
+
+1. Mix extract thoroughly, then pipette 4 mL of sample into a culture tube.
+   
+2.	Add 2.5 mL potassium persulphate oxidizing solution.
+   
+3.	Tightly close the tubes with the caps.
+
+4.	Place the samples in a pre-heated oven @ 110°C for 60 minutes. 
+
+5. Once cooled, samples are ready for further analysis. 
+
+
+
